@@ -1,9 +1,9 @@
 
 # 🐦 Archivio Detti di Tuturano
 
-> Installazione sonora interattiva — Casa di Quartiere, Tuturano (Puglia, IT)
+> Installazione sonora interattiva all'interno della struttura principale del playground — Casa di Quartiere, Tuturano (Puglia, IT)
 
-Un archivio sonoro partecipativo di detti dialettali raccolti via Telegram e riprodotti nello spazio fisico. I visitatori inviano un vocale al bot, che lo normalizza e lo aggiunge all'archivio. Un sensore PIR rileva la presenza e riproduce un detto casuale ogni volta che qualcuno si avvicina all'installazione.
+Un archivio sonoro partecipativo di detti dialettali raccolti via Telegram e riprodotti nello spazio fisico. I visitatori inviano un vocale al bot, che lo normalizza e lo aggiunge all'archivio. Un sensore PIR rileva la presenza e riproduce un detto casuale ogni volta che qualcuno entra all'interno dell'nstallazione principale del playground.
 
 ---
 
