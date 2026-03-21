@@ -1,4 +1,4 @@
-```markdown
+
 # 🐦 Archivio Detti di Tuturano
 
 > Installazione sonora interattiva — Casa di Quartiere, Tuturano (Puglia, IT)
@@ -93,5 +93,4 @@ rpi-connect signin
 
 ## Licenza
 
-MIT — Daniele Murgioni / Atlas Instruments
-```
+MIT 
