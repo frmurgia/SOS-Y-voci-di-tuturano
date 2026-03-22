@@ -87,4 +87,4 @@ rpi-connect signin
 
 ## Licenza
 
-MIT — Daniele Murgioni / Atlas Instruments
+MIT 
